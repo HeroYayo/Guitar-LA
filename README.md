@@ -13,10 +13,11 @@ A responsive shopping cart application where users can browse guitars, add or re
 
 ## 🛠️ Built With
 
-- HTML5  
-- CSS3  
+- React  
+- Vite  
 - TypeScript  
-- TailwindCSS  
+- TailwindCSS
+- Javascript (ES6+) 
 
 ---
 
